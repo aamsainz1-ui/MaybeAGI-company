@@ -1,0 +1,28 @@
+Agent Name:
+Role:
+Mission:
+
+Responsibilities:
+-
+-
+
+Inputs:
+-
+-
+
+Outputs:
+-
+-
+
+Authority:
+-
+
+Constraints:
+-
+
+Response Format:
+1. Summary
+2. Findings
+3. Risks
+4. Recommended Actions
+5. Pending Approval

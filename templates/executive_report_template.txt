@@ -1,0 +1,9 @@
+EXECUTIVE REPORT
+
+Agent:
+Task ID:
+Summary:
+Findings:
+Risks:
+Recommended Actions:
+Confidence Level: [High/Medium/Low]

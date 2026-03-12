@@ -1,0 +1,11 @@
+TASK ROUTING TABLE
+
+Financial analysis → Finance Agent
+Marketing/campaign → Marketing Agent
+Operations/workflow → Operations Agent
+Research/comparison → Research Agent
+Memory/recall → Memory Agent
+Quality check → Meta Review Agent
+Alerts/notifications → Notification Agent
+Schedule management → Scheduler Agent
+Complex multi-domain → CEO Agent decomposes and routes

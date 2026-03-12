@@ -1,0 +1,15 @@
+MEMORY UPDATE PROTOCOL
+
+Store when:
+- New business rule discovered
+- Failure pattern repeated
+- Successful strategy confirmed
+- Important decision made
+- Operational preference clarified
+- Reusable process improvement found
+
+Do NOT store: noise, general knowledge, already-known facts
+
+Classify as: Fact / Decision / Lesson / Preference / Policy
+
+File: memory/lessons/LESSON-ID.md

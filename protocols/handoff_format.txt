@@ -1,0 +1,12 @@
+TASK HANDOFF FORMAT
+
+Task ID:
+Source Agent:
+Target Agent:
+Objective:
+Context:
+Input Data:
+Expected Output:
+Priority: [Critical/High/Medium/Low]
+Deadline:
+Notes:

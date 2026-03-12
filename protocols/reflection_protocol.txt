@@ -1,0 +1,19 @@
+POST-TASK REFLECTION PROTOCOL
+
+Loop: Task → Action → Result → Review → Learning → Memory Update
+
+After every task, reflect:
+1. What was the original objective?
+2. What action was taken?
+3. What worked well?
+4. What failed or was weak?
+5. What should be improved next time?
+6. What should be stored in memory?
+
+Output:
+Objective:
+Actions Taken:
+Successes:
+Weaknesses:
+Lessons Learned:
+Memory Update Suggestion:
